@@ -12,6 +12,7 @@ public class BrowserFactory {
     ThreadLocal<WebDriver> threadLocal = ThreadLocal.withInitial(() -> {
         WebDriver driver = null;
         String browserType = ConfigReader.get("browser");
+        Log.info("Initializing browser: " + browserType);
 
         switch (browserType) {
             case "chrome":
@@ -24,6 +25,7 @@ public class BrowserFactory {
                 driver = new EdgeDriver();
                 break;
             default:
+                Log.error("Invalid browser type: " + browserType);
                 throw new RuntimeException("Invalid browser type: " + browserType);
         }
 

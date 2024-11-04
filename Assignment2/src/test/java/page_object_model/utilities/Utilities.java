@@ -9,6 +9,7 @@ public class Utilities {
 
     @BeforeTest
     public void initialize_browser(){
+        System.setProperty("log4j2.configurationFile", "src/test/java/page_object_model/resources/log4j2.xml");
         browserFactory = BrowserFactory.getBrowserFactory();
     }
 

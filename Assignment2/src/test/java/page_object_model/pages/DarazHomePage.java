@@ -4,6 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import page_object_model.utilities.Log;
 
 import java.awt.*;
 
@@ -22,10 +23,12 @@ public class DarazHomePage extends BasePage {
     }
 
     public void typeTextToSearchBox(String searchText) {
+        Log.info("Typing text to search box: " + searchText);
         SearchBox.sendKeys(searchText);
     }
 
     public <T> T clickButton() {
+        Log.info("Clicking the search button with visible text: " + visibleText);
         Button.click();
 
 //        if(visibleText.equals("rings")) {
@@ -36,12 +39,16 @@ public class DarazHomePage extends BasePage {
 
         switch (visibleText.toLowerCase()) {
             case "rings":
+                Log.info("navigating to rings page");
                 return (T) PageFactory.initElements(driver, DarazRingsPage.class);
             case "phones":
+                Log.info("navigating to phones page");
                 return (T) PageFactory.initElements(driver, DarazPhonesPage.class);
             case "watches":
+                Log.info("navigating to watches page");
                 return (T) PageFactory.initElements(driver, DarazWatchesPage.class);
             default:
+                Log.info("navigating to home page");
                 return (T) PageFactory.initElements(driver, DarazHomePage.class);
         }
 
