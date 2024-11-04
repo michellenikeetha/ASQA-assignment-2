@@ -3,6 +3,7 @@ package page_object_model.pages;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import page_object_model.utilities.Log;
 
 public class DarazPhonesPage extends BasePage{
 
@@ -17,17 +18,21 @@ public class DarazPhonesPage extends BasePage{
 
     public DarazPhonesPage(WebDriver driver) {
         super(driver);
+        Log.info("DarazPhonesPage Initialized");
     }
 
     public void clickDarazPhonesLink() {
         DarazPhonesLink.click();
+        Log.info("DarazPhonesLink clicked");
     }
 
     public void clickSortSelector() {
         SortSelector.click();
+        Log.info("SortSelector clicked");
     }
 
     public void clickPriceLow() {
         PriceLow.click();
+        Log.info("PriceLow clicked");
     }
 }

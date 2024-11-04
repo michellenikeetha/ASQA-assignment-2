@@ -8,3 +8,34 @@
 2024-11-05 01:36:48 [main] INFO  Log - Typing text to search box: watches
 2024-11-05 01:36:49 [main] INFO  Log - Clicking the search button with visible text: watches
 2024-11-05 01:37:11 [main] INFO  Log - navigating to watches page
+2024-11-05 01:45:29 [main] INFO  Log - Initializing browser: chrome
+2024-11-05 01:45:32 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 01:45:55 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 01:45:55 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 01:45:55 [main] INFO  Log - Typing text to search box: phones
+2024-11-05 01:45:55 [main] INFO  Log - Clicking the search button with visible text: phones
+2024-11-05 01:46:18 [main] INFO  Log - navigating to phones page
+2024-11-05 01:46:18 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 01:46:18 [main] INFO  Log - DarazPhonesPage Initialized
+2024-11-05 01:46:19 [main] INFO  Log - DarazPhonesLink clicked
+2024-11-05 01:46:19 [main] INFO  Log - SortSelector clicked
+2024-11-05 01:46:20 [main] INFO  Log - PriceLow clicked
+2024-11-05 01:46:23 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 01:46:44 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 01:46:44 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 01:46:44 [main] INFO  Log - Typing text to search box: rings
+2024-11-05 01:46:45 [main] INFO  Log - Clicking the search button with visible text: rings
+2024-11-05 01:47:07 [main] INFO  Log - navigating to rings page
+2024-11-05 01:47:07 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 01:47:07 [main] INFO  Log - DarazRingsPage Initialized
+2024-11-05 01:47:07 [main] INFO  Log - Scrolling page to 0, 2500
+2024-11-05 01:47:08 [main] INFO  Log - DarazRingsPage Clicked CheckBox Cubic
+2024-11-05 01:47:13 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 01:47:48 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 01:47:48 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 01:47:48 [main] INFO  Log - Typing text to search box: watches
+2024-11-05 01:47:48 [main] INFO  Log - Clicking the search button with visible text: watches
+2024-11-05 01:48:10 [main] INFO  Log - navigating to watches page
+2024-11-05 01:48:10 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 01:48:10 [main] INFO  Log - DarazWatchesPage Initialized
+2024-11-05 01:48:11 [main] INFO  Log - Clicked on list
