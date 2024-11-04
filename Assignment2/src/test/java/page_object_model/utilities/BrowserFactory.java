@@ -9,9 +9,10 @@ public class BrowserFactory {
 
     static BrowserFactory browserFactory;
 
-    ThreadLocal<WebDriver> threadLocal = ThreadLocal.withInitial(()-> {
+    ThreadLocal<WebDriver> threadLocal = ThreadLocal.withInitial(() -> {
         WebDriver driver = null;
-        String browserType = System.getProperty("browser", "chrome");
+        String browserType = ConfigReader.get("browser");
+
         switch (browserType) {
             case "chrome":
                 driver = new ChromeDriver();
@@ -23,8 +24,9 @@ public class BrowserFactory {
                 driver = new EdgeDriver();
                 break;
             default:
-                new RuntimeException("Invalid browser type: " + browserType);
+                throw new RuntimeException("Invalid browser type: " + browserType);
         }
+
         driver.manage().window().maximize();
         return driver;
     });

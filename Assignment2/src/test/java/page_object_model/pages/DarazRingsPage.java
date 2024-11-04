@@ -8,7 +8,7 @@ public class DarazRingsPage extends BasePage{
 
     @FindBy(xpath = "//span[text()='Cubic Zirconia']")
     //@FindBy(xpath = "//input[class='ant-checkbox-input']")
-    private WebElement checkBoxCubic;
+    public WebElement checkBoxCubic;
 
     public DarazRingsPage(WebDriver driver) {
         super(driver);
