@@ -6,8 +6,6 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import page_object_model.utilities.Log;
 
-import java.awt.*;
-
 public class DarazHomePage extends BasePage {
 
     @FindBy(xpath = "//input[@id='q']")
@@ -15,6 +13,9 @@ public class DarazHomePage extends BasePage {
 
     @FindBy(xpath = "//a[@class='search-box__button--1oH7']")
     public WebElement Button;
+
+    @FindBy(xpath = "//div[@id='anonLogin']")
+    public WebElement AnonLogin;
 
     public String visibleText = "";
 
@@ -52,6 +53,13 @@ public class DarazHomePage extends BasePage {
                 return (T) PageFactory.initElements(driver, DarazHomePage.class);
         }
 
+    }
+
+    public DarazLoginPage clickLogin() {
+        Log.info("Clicking login button");
+        AnonLogin.click();
+        Log.info("navigating to login page");
+        return PageFactory.initElements(driver, DarazLoginPage.class);
     }
 
 }
