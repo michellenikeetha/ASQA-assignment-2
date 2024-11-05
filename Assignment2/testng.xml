@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test parallel="methods" thread-count="3" verbose="2" preserve-order="true"
+    <test parallel="methods" thread-count="4" verbose="2" preserve-order="true"
           name="D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2">
         <classes>
             <class name="page_object_model.tests.Daraz">
@@ -9,6 +9,9 @@
                     <include name="searchRings"/>
                     <include name="searchWatches"/>
                     <include name="searchPhones"/>
+<!--                    <include name="login"/>-->
+<!--                    <include name="myProfile"/>-->
+                    <include name="loginWithDataProvider"/>
                 </methods>
             </class>
         </classes>

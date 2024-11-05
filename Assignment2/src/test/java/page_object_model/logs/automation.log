@@ -1176,3 +1176,285 @@
 2024-11-05 22:34:19 [main] INFO  Log - Click Year
 2024-11-05 22:34:24 [main] INFO  Log - Save Changes
 2024-11-05 22:34:27 [main] INFO  Log - Retrieve saved date
+2024-11-05 22:38:58 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - Initializing browser: chrome
+2024-11-05 22:38:58 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-1] INFO  Log - Initializing browser: chrome
+2024-11-05 22:38:58 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-2] INFO  Log - Initializing browser: chrome
+2024-11-05 22:38:59 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Initializing browser: chrome
+2024-11-05 22:39:01 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-2] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:39:01 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:39:01 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:39:01 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-1] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:39:02 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 22:39:02 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:39:02 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Clicking login button
+2024-11-05 22:39:28 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-1] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 22:39:28 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-1] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:39:28 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-1] INFO  Log - Typing text to search box: rings
+2024-11-05 22:39:29 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-2] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 22:39:29 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-2] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:39:29 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-2] INFO  Log - Typing text to search box: watches
+2024-11-05 22:39:29 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-1] INFO  Log - Clicking the search button with visible text: rings
+2024-11-05 22:39:29 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 22:39:29 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:39:29 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - Typing text to search box: phones
+2024-11-05 22:39:30 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - navigating to login page
+2024-11-05 22:39:30 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:39:30 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - DarazLoginPage initialized
+2024-11-05 22:39:30 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-2] INFO  Log - Clicking the search button with visible text: watches
+2024-11-05 22:39:31 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - Clicking the search button with visible text: phones
+2024-11-05 22:39:33 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - isLogInButtonDisplayed
+2024-11-05 22:39:33 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - enterUsername: incorrectUsername
+2024-11-05 22:39:34 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - enterPassword: incorrectPass
+2024-11-05 22:39:35 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Clicking on Log In button
+2024-11-05 22:39:35 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:39:40 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 22:39:40 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:39:56 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-1] INFO  Log - navigating to rings page
+2024-11-05 22:39:56 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-1] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:39:56 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-1] INFO  Log - DarazRingsPage Initialized
+2024-11-05 22:39:56 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-2] INFO  Log - navigating to watches page
+2024-11-05 22:39:56 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-2] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:39:56 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-2] INFO  Log - DarazWatchesPage Initialized
+2024-11-05 22:39:56 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-1] INFO  Log - Scrolling page to 0, 2500
+2024-11-05 22:39:57 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - navigating to phones page
+2024-11-05 22:39:57 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:39:57 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - DarazPhonesPage Initialized
+2024-11-05 22:39:57 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-2] INFO  Log - Clicked on list
+2024-11-05 22:39:57 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-1] INFO  Log - DarazRingsPage Clicked CheckBox Cubic
+2024-11-05 22:39:58 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - DarazPhonesLink clicked
+2024-11-05 22:39:59 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - SortSelector clicked
+2024-11-05 22:40:00 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - PriceLow clicked
+2024-11-05 22:40:04 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 22:40:04 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:40:04 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Clicking login button
+2024-11-05 22:40:04 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - navigating to login page
+2024-11-05 22:40:04 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:40:04 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - DarazLoginPage initialized
+2024-11-05 22:40:07 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - isLogInButtonDisplayed
+2024-11-05 22:40:07 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - enterUsername: incorrectUsername
+2024-11-05 22:40:07 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - enterPassword: 12345678m@
+2024-11-05 22:40:07 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Clicking on Log In button
+2024-11-05 22:40:08 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:40:13 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 22:40:13 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:40:35 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 22:40:35 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:40:35 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Clicking login button
+2024-11-05 22:40:36 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - navigating to login page
+2024-11-05 22:40:36 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:40:36 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - DarazLoginPage initialized
+2024-11-05 22:40:39 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - isLogInButtonDisplayed
+2024-11-05 22:40:39 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 22:40:39 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - enterPassword: incorrectPass
+2024-11-05 22:40:39 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Clicking on Log In button
+2024-11-05 22:40:39 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:40:44 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 22:40:44 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:41:06 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 22:41:06 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:41:06 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Clicking login button
+2024-11-05 22:41:06 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - navigating to login page
+2024-11-05 22:41:06 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:41:06 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - DarazLoginPage initialized
+2024-11-05 22:41:09 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - isLogInButtonDisplayed
+2024-11-05 22:41:10 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 22:41:10 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - enterPassword: 12345678m@
+2024-11-05 22:41:10 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Clicking on Log In button
+2024-11-05 22:41:10 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:41:15 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 22:41:33 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Clicking on Logout button
+2024-11-05 22:41:58 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Checking if anonymous login is visible
+2024-11-05 22:41:58 [main] INFO  Log - Initializing browser: chrome
+2024-11-05 22:50:31 [main] INFO  Log - Initializing browser: chrome
+2024-11-05 22:50:33 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:50:59 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 22:50:59 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:50:59 [main] INFO  Log - Clicking login button
+2024-11-05 22:50:59 [main] INFO  Log - navigating to login page
+2024-11-05 22:50:59 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:50:59 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 22:51:02 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 22:51:02 [main] INFO  Log - enterUsername: incorrectUsername
+2024-11-05 22:51:02 [main] INFO  Log - enterPassword: incorrectPass
+2024-11-05 22:51:02 [main] INFO  Log - Clicking on Log In button
+2024-11-05 22:51:03 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:51:08 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 22:51:08 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:51:30 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 22:51:30 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:51:30 [main] INFO  Log - Clicking login button
+2024-11-05 22:51:30 [main] INFO  Log - navigating to login page
+2024-11-05 22:51:30 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:51:30 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 22:51:33 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 22:51:33 [main] INFO  Log - enterUsername: incorrectUsername
+2024-11-05 22:51:34 [main] INFO  Log - enterPassword: 12345678m@
+2024-11-05 22:51:34 [main] INFO  Log - Clicking on Log In button
+2024-11-05 22:51:34 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:51:39 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 22:51:39 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:52:01 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 22:52:01 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:52:01 [main] INFO  Log - Clicking login button
+2024-11-05 22:52:01 [main] INFO  Log - navigating to login page
+2024-11-05 22:52:01 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:52:01 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 22:52:04 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 22:52:04 [main] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 22:52:04 [main] INFO  Log - enterPassword: incorrectPass
+2024-11-05 22:52:05 [main] INFO  Log - Clicking on Log In button
+2024-11-05 22:52:05 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:52:10 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 22:52:10 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:52:32 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 22:52:32 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:52:32 [main] INFO  Log - Clicking login button
+2024-11-05 22:52:32 [main] INFO  Log - navigating to login page
+2024-11-05 22:52:32 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:52:32 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 22:52:35 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 22:52:35 [main] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 22:52:36 [main] INFO  Log - enterPassword: 12345678m@
+2024-11-05 22:52:36 [main] INFO  Log - Clicking on Log In button
+2024-11-05 22:52:36 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:52:41 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 22:53:14 [main] INFO  Log - Clicking on Logout button
+2024-11-05 22:53:40 [main] INFO  Log - Checking if anonymous login is visible
+2024-11-05 22:53:40 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:54:02 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 22:54:02 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:54:02 [main] INFO  Log - Typing text to search box: phones
+2024-11-05 22:54:02 [main] INFO  Log - Clicking the search button with visible text: phones
+2024-11-05 22:54:29 [main] INFO  Log - navigating to phones page
+2024-11-05 22:54:29 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:54:29 [main] INFO  Log - DarazPhonesPage Initialized
+2024-11-05 22:54:29 [main] INFO  Log - DarazPhonesLink clicked
+2024-11-05 22:54:31 [main] INFO  Log - SortSelector clicked
+2024-11-05 22:54:32 [main] INFO  Log - PriceLow clicked
+2024-11-05 22:54:35 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:54:57 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 22:54:57 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:54:57 [main] INFO  Log - Typing text to search box: rings
+2024-11-05 22:54:58 [main] INFO  Log - Clicking the search button with visible text: rings
+2024-11-05 22:55:21 [main] INFO  Log - navigating to rings page
+2024-11-05 22:55:21 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:55:21 [main] INFO  Log - DarazRingsPage Initialized
+2024-11-05 22:55:21 [main] INFO  Log - Scrolling page to 0, 2500
+2024-11-05 22:55:22 [main] INFO  Log - DarazRingsPage Clicked CheckBox Cubic
+2024-11-05 22:55:27 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:55:49 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 22:55:49 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:55:49 [main] INFO  Log - Typing text to search box: watches
+2024-11-05 22:55:50 [main] INFO  Log - Clicking the search button with visible text: watches
+2024-11-05 22:56:15 [main] INFO  Log - navigating to watches page
+2024-11-05 22:56:15 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:56:15 [main] INFO  Log - DarazWatchesPage Initialized
+2024-11-05 22:56:16 [main] INFO  Log - Clicked on list
+2024-11-05 22:56:21 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:56:43 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 22:56:43 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:56:43 [main] INFO  Log - Clicking login button
+2024-11-05 22:56:43 [main] INFO  Log - navigating to login page
+2024-11-05 22:56:43 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:56:43 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 22:56:46 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 22:56:46 [main] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 22:56:47 [main] INFO  Log - enterPassword: 12345678m@
+2024-11-05 22:56:47 [main] INFO  Log - Clicking on Log In button
+2024-11-05 22:56:47 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:56:52 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 22:57:09 [main] INFO  Log - Clicking on My Account button
+2024-11-05 22:57:09 [main] INFO  Log - Clicking on My Orders button
+2024-11-05 22:57:36 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:57:36 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 22:57:39 [main] INFO  Log - Clicking on My Account button
+2024-11-05 22:57:39 [main] INFO  Log - Clicking on Manage Account button
+2024-11-05 22:58:01 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:58:01 [main] INFO  Log - Daraz My Profile Page initialized
+2024-11-05 22:58:04 [main] INFO  Log - Check if ManageMyAccount is Displayed
+2024-11-05 22:58:04 [main] INFO  Log - Click My Profile
+2024-11-05 22:58:29 [main] INFO  Log - Check if My Profile is Displayed
+2024-11-05 22:58:29 [main] INFO  Log - Click Edit Profile
+2024-11-05 22:58:33 [main] INFO  Log - Check if Edit Profile is Displayed
+2024-11-05 22:58:33 [main] INFO  Log - Click Month
+2024-11-05 22:58:34 [main] INFO  Log - Click Day
+2024-11-05 22:58:35 [main] INFO  Log - Click Year
+2024-11-05 22:58:39 [main] INFO  Log - Save Changes
+2024-11-05 22:58:42 [main] INFO  Log - Retrieve saved date
+2024-11-05 22:59:14 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - Initializing browser: chrome
+2024-11-05 22:59:14 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-1] INFO  Log - Initializing browser: chrome
+2024-11-05 22:59:14 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-2] INFO  Log - Initializing browser: chrome
+2024-11-05 22:59:15 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Initializing browser: chrome
+2024-11-05 22:59:20 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-2] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:59:20 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:59:20 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-1] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:59:20 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:59:50 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-2] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 22:59:50 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-2] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:59:50 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-2] INFO  Log - Typing text to search box: watches
+2024-11-05 22:59:50 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 22:59:50 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:59:50 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Clicking login button
+2024-11-05 22:59:51 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-1] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 22:59:51 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-1] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:59:51 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-1] INFO  Log - Typing text to search box: rings
+2024-11-05 22:59:53 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 22:59:53 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:59:53 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - Typing text to search box: phones
+2024-11-05 22:59:56 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-2] INFO  Log - Clicking the search button with visible text: watches
+2024-11-05 22:59:57 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - navigating to login page
+2024-11-05 22:59:57 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 22:59:57 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - DarazLoginPage initialized
+2024-11-05 22:59:58 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-1] INFO  Log - Clicking the search button with visible text: rings
+2024-11-05 22:59:58 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - Clicking the search button with visible text: phones
+2024-11-05 23:00:00 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - isLogInButtonDisplayed
+2024-11-05 23:00:02 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - enterUsername: incorrectUsername
+2024-11-05 23:00:14 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - enterPassword: incorrectPass
+2024-11-05 23:00:15 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Clicking on Log In button
+2024-11-05 23:00:16 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 23:00:21 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 23:00:23 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 23:00:24 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 23:00:24 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 23:00:24 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Clicking login button
+2024-11-05 23:00:29 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-2] INFO  Log - navigating to watches page
+2024-11-05 23:00:29 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-2] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 23:00:29 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-2] INFO  Log - DarazWatchesPage Initialized
+2024-11-05 23:00:30 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-2] INFO  Log - Clicked on list
+2024-11-05 23:00:33 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-1] INFO  Log - navigating to rings page
+2024-11-05 23:00:33 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-1] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 23:00:33 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-1] INFO  Log - DarazRingsPage Initialized
+2024-11-05 23:00:33 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - navigating to phones page
+2024-11-05 23:00:33 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 23:00:33 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - DarazPhonesPage Initialized
+2024-11-05 23:00:34 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-1] INFO  Log - Scrolling page to 0, 2500
+2024-11-05 23:00:35 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - DarazPhonesLink clicked
+2024-11-05 23:00:35 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-1] INFO  Log - DarazRingsPage Clicked CheckBox Cubic
+2024-11-05 23:00:36 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - SortSelector clicked
+2024-11-05 23:00:37 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-3] INFO  Log - PriceLow clicked
+2024-11-05 23:00:47 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - navigating to login page
+2024-11-05 23:00:47 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 23:00:47 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - DarazLoginPage initialized
+2024-11-05 23:00:50 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - isLogInButtonDisplayed
+2024-11-05 23:00:51 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - enterUsername: incorrectUsername
+2024-11-05 23:00:51 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - enterPassword: 12345678m@
+2024-11-05 23:00:51 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Clicking on Log In button
+2024-11-05 23:00:52 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 23:00:57 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 23:00:57 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 23:01:26 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 23:01:26 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 23:01:26 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Clicking login button
+2024-11-05 23:01:27 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - navigating to login page
+2024-11-05 23:01:27 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 23:01:27 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - DarazLoginPage initialized
+2024-11-05 23:01:30 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - isLogInButtonDisplayed
+2024-11-05 23:01:30 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 23:01:54 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 23:01:54 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 23:01:54 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - Clicking login button
+2024-11-05 23:01:55 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - navigating to login page
+2024-11-05 23:01:55 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 23:01:55 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - DarazLoginPage initialized
+2024-11-05 23:01:58 [TestNG-test-D:/documents/uni/yr 4/SEMESTER 1/IS4102 Advanced Software Quality Assurance/ASQA-assignment-2/Assignment2-4] INFO  Log - isLogInButtonDisplayed
+2024-11-05 23:01:58 [main] INFO  Log - Initializing browser: chrome
