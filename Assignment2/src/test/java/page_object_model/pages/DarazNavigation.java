@@ -17,6 +17,9 @@ public class DarazNavigation extends BasePage{
     @FindBy(xpath = "//span[@class='account-icon test manage-account']")
     public WebElement manageAccountButton;
 
+    @FindBy(xpath = "//a[@id='account-popup-logout']")
+    public WebElement logoutButton;
+
     public DarazNavigation(WebDriver driver) {
         super(driver);
     }
@@ -40,6 +43,12 @@ public class DarazNavigation extends BasePage{
         Log.info("Clicking on Manage Account button");
         manageAccountButton.click();
         return PageFactory.initElements(driver, DarazMyProfile.class);
+    }
+
+    public void clickLogoutButton() {
+        myAccountButton.click();
+        Log.info("Clicking on Logout button");
+        logoutButton.click();
     }
 
 }

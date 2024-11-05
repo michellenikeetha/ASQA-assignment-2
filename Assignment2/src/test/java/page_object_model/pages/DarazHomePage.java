@@ -62,4 +62,9 @@ public class DarazHomePage extends BasePage {
         return PageFactory.initElements(driver, DarazLoginPage.class);
     }
 
+    public boolean isAnonLoginVisible() {
+        Log.info("Checking if anonymous login is visible");
+        return AnonLogin.isDisplayed();
+    }
+
 }

@@ -3,9 +3,15 @@ package page_object_model.tests;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
+import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import page_object_model.pages.*;
+import page_object_model.utilities.ExcelUtil;
 import page_object_model.utilities.Utilities;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Daraz extends Utilities {
 
@@ -64,7 +70,7 @@ public class Daraz extends Utilities {
         Assert.assertTrue(phonesPage.SortSelector.isDisplayed(), "Sort selector is not displayed.");
     }
 
-    @Test
+    @Test(priority = 1)
     public void login() throws InterruptedException {
 
         BasePage baseURL = PageFactory.initElements(browserFactory.getDriver(), BasePage.class);
@@ -88,7 +94,7 @@ public class Daraz extends Utilities {
 
     }
 
-    @Test(dependsOnMethods = "login")
+    @Test(dependsOnMethods = "login", priority = 2)
     public void myProfile() throws InterruptedException {
         DarazNavigation navigation = PageFactory.initElements(browserFactory.getDriver(), DarazNavigation.class);
 
@@ -125,5 +131,42 @@ public class Daraz extends Utilities {
         Assert.assertEquals(actualDate, expectedDate, "The saved date is not as expected.");
 
     }
+
+    @DataProvider(name = "loginData")
+    public Object[][] loginDataProvider() throws IOException {
+        List<Object[]> loginData = ExcelUtil.getLoginData();
+        return loginData.toArray(new Object[0][0]);
+    }
+
+    @Test(dataProvider = "loginData")
+    public void loginWithDataProvider(String username, String password, String expectedResult) throws InterruptedException {
+
+        BasePage baseURL = PageFactory.initElements(browserFactory.getDriver(), BasePage.class);
+        DarazHomePage homePage = baseURL.loadURL("https://www.daraz.lk/");
+
+        DarazLoginPage loginPage = homePage.clickLogin();
+        Thread.sleep(3000);
+
+        Assert.assertTrue(loginPage.isLogInButtonDisplayed(), "Login button is not displayed.");
+
+        loginPage.enterUsername(username);
+        loginPage.enterPassword(password);
+        DarazNavigation navigation = loginPage.clickLogInButton();
+        Thread.sleep(5000);
+
+        boolean isLoginSuccessful = navigation.isMyAccountButtonDisplayed();
+
+        if (expectedResult.equals("Success")) {
+            Assert.assertTrue(isLoginSuccessful, "Expected login to succeed, but it failed.");
+
+            navigation.clickLogoutButton();
+            Thread.sleep(3000);
+
+            Assert.assertTrue(homePage.isAnonLoginVisible(), "Login button is not displayed.");
+        } else {
+            Assert.assertFalse(isLoginSuccessful, "Expected login to fail, but it succeeded.");
+        }
+    }
+
 
 }
