@@ -3,6 +3,7 @@ package page_object_model.pages;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
 import page_object_model.utilities.Log;
 
 public class DarazLoginPage extends BasePage{
@@ -20,12 +21,6 @@ public class DarazLoginPage extends BasePage{
 
     @FindBy(xpath = "//input[@placeholder='Please enter your password']")
     public WebElement passwordField;
-
-    @FindBy(xpath = "//span[@id='myAccountTrigger']")
-    public WebElement myAccountButton;
-
-    @FindBy(xpath = "//span[@class='account-icon test my-orders']")
-    public WebElement myOrdersButton;
 
     public DarazLoginPage(WebDriver driver) {
         super(driver);
@@ -51,24 +46,10 @@ public class DarazLoginPage extends BasePage{
         passwordField.sendKeys(password);
     }
 
-    public void clickLogInButton() {
+    public DarazNavigation clickLogInButton() {
         Log.info("Clicking on Log In button");
         logInButton.click();
-    }
-
-    public boolean isMyAccountButtonDisplayed() {
-        Log.info("isMyAccountButtonDisplayed");
-        return myAccountButton.isDisplayed();
-    }
-
-    public void clickMyAccountButton() {
-        Log.info("Clicking on My Account button");
-        myAccountButton.click();
-    }
-
-    public void clickMyOrdersButton() {
-        Log.info("Clicking on My Orders button");
-        myOrdersButton.click();
+        return PageFactory.initElements(driver, DarazNavigation.class);
     }
 
 }

@@ -191,3 +191,458 @@
 2024-11-05 15:18:30 [main] INFO  Log - isMyAccountButtonDisplayed
 2024-11-05 15:18:47 [main] INFO  Log - Clicking on My Account button
 2024-11-05 15:18:47 [main] INFO  Log - Clicking on My Orders button
+2024-11-05 15:43:09 [main] INFO  Log - Initializing browser: chrome
+2024-11-05 15:43:10 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 15:43:35 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 15:43:35 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 15:43:35 [main] INFO  Log - Clicking login button
+2024-11-05 15:43:35 [main] INFO  Log - navigating to login page
+2024-11-05 15:43:35 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 15:43:35 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 15:43:38 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 15:43:38 [main] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 15:43:38 [main] INFO  Log - enterPassword: 12345678m@
+2024-11-05 15:43:39 [main] INFO  Log - Clicking on Log In button
+2024-11-05 15:43:39 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 15:43:42 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 15:44:01 [main] INFO  Log - Clicking on My Account button
+2024-11-05 15:44:01 [main] INFO  Log - Clicking on My Orders button
+2024-11-05 15:45:30 [main] INFO  Log - Initializing browser: chrome
+2024-11-05 15:45:31 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 15:45:57 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 15:45:57 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 15:45:57 [main] INFO  Log - Clicking login button
+2024-11-05 15:45:57 [main] INFO  Log - navigating to login page
+2024-11-05 15:45:57 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 15:45:57 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 15:46:00 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 15:46:00 [main] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 15:46:00 [main] INFO  Log - enterPassword: 12345678m@
+2024-11-05 15:46:00 [main] INFO  Log - Clicking on Log In button
+2024-11-05 15:46:00 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 15:46:03 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 15:46:23 [main] INFO  Log - Clicking on My Account button
+2024-11-05 15:46:23 [main] INFO  Log - Clicking on My Orders button
+2024-11-05 17:08:38 [main] INFO  Log - Initializing browser: chrome
+2024-11-05 17:08:47 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 17:09:10 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 17:09:10 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 17:09:10 [main] INFO  Log - Clicking login button
+2024-11-05 17:09:10 [main] INFO  Log - navigating to login page
+2024-11-05 17:09:10 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 17:09:10 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 17:09:13 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 17:09:13 [main] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 17:09:14 [main] INFO  Log - enterPassword: 12345678m@
+2024-11-05 17:09:14 [main] INFO  Log - Clicking on Log In button
+2024-11-05 17:09:14 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 17:09:17 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 17:09:58 [main] INFO  Log - Initializing browser: chrome
+2024-11-05 17:09:59 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 17:10:26 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 17:10:26 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 17:10:26 [main] INFO  Log - Clicking login button
+2024-11-05 17:10:26 [main] INFO  Log - navigating to login page
+2024-11-05 17:10:26 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 17:10:26 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 17:10:29 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 17:10:29 [main] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 17:10:29 [main] INFO  Log - enterPassword: 12345678m@
+2024-11-05 17:10:30 [main] INFO  Log - Clicking on Log In button
+2024-11-05 17:10:30 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 17:10:35 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 17:10:59 [main] INFO  Log - Clicking on My Account button
+2024-11-05 17:10:59 [main] INFO  Log - Clicking on My Orders button
+2024-11-05 17:11:26 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 17:11:26 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 17:11:26 [main] INFO  Log - Clicking on My Account button
+2024-11-05 17:11:26 [main] INFO  Log - Clicking on Manage Account button
+2024-11-05 17:12:58 [main] INFO  Log - Initializing browser: chrome
+2024-11-05 17:12:59 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 17:13:24 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 17:13:24 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 17:13:24 [main] INFO  Log - Clicking login button
+2024-11-05 17:13:24 [main] INFO  Log - navigating to login page
+2024-11-05 17:13:24 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 17:13:24 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 17:13:27 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 17:13:27 [main] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 17:13:28 [main] INFO  Log - enterPassword: 12345678m@
+2024-11-05 17:13:28 [main] INFO  Log - Clicking on Log In button
+2024-11-05 17:13:28 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 17:13:33 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 17:13:50 [main] INFO  Log - Clicking on My Account button
+2024-11-05 17:13:51 [main] INFO  Log - Clicking on My Orders button
+2024-11-05 17:14:18 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 17:14:18 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 17:14:21 [main] INFO  Log - Clicking on My Account button
+2024-11-05 17:14:22 [main] INFO  Log - Clicking on Manage Account button
+2024-11-05 17:15:05 [main] INFO  Log - Initializing browser: chrome
+2024-11-05 17:15:06 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 17:15:31 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 17:15:31 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 17:15:31 [main] INFO  Log - Clicking login button
+2024-11-05 17:15:31 [main] INFO  Log - navigating to login page
+2024-11-05 17:15:31 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 17:15:31 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 17:15:34 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 17:15:34 [main] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 17:15:34 [main] INFO  Log - enterPassword: 12345678m@
+2024-11-05 17:15:35 [main] INFO  Log - Clicking on Log In button
+2024-11-05 17:15:35 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 17:15:40 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 17:15:57 [main] INFO  Log - Clicking on My Account button
+2024-11-05 17:15:57 [main] INFO  Log - Clicking on My Orders button
+2024-11-05 17:16:26 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 17:16:26 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 17:16:26 [main] INFO  Log - Clicking on My Account button
+2024-11-05 17:16:27 [main] INFO  Log - Clicking on Manage Account button
+2024-11-05 18:11:52 [main] INFO  Log - Initializing browser: chrome
+2024-11-05 18:11:57 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:12:23 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 18:12:23 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:12:23 [main] INFO  Log - Clicking login button
+2024-11-05 18:12:23 [main] INFO  Log - navigating to login page
+2024-11-05 18:12:23 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:12:23 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 18:12:26 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 18:12:26 [main] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 18:12:27 [main] INFO  Log - enterPassword: 12345678m@
+2024-11-05 18:12:27 [main] INFO  Log - Clicking on Log In button
+2024-11-05 18:12:27 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:12:32 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 18:12:49 [main] INFO  Log - Clicking on My Account button
+2024-11-05 18:12:49 [main] INFO  Log - Clicking on My Orders button
+2024-11-05 18:13:16 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:13:16 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 18:13:19 [main] INFO  Log - Clicking on My Account button
+2024-11-05 18:13:19 [main] INFO  Log - Clicking on Manage Account button
+2024-11-05 18:13:43 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:13:43 [main] INFO  Log - Daraz My Profile Page initialized
+2024-11-05 18:13:46 [main] INFO  Log - Check if ManageMyAccount is Displayed
+2024-11-05 18:13:46 [main] INFO  Log - Click My Profile
+2024-11-05 18:14:11 [main] INFO  Log - Check if My Profile is Displayed
+2024-11-05 18:14:11 [main] INFO  Log - Click Edit Profile
+2024-11-05 18:14:14 [main] INFO  Log - Check if Edit Profile is Displayed
+2024-11-05 18:16:11 [main] INFO  Log - Initializing browser: chrome
+2024-11-05 18:16:13 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:16:40 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 18:16:40 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:16:40 [main] INFO  Log - Clicking login button
+2024-11-05 18:16:40 [main] INFO  Log - navigating to login page
+2024-11-05 18:16:40 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:16:40 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 18:16:43 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 18:16:43 [main] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 18:16:43 [main] INFO  Log - enterPassword: 12345678m@
+2024-11-05 18:16:44 [main] INFO  Log - Clicking on Log In button
+2024-11-05 18:16:44 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:16:49 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 18:17:06 [main] INFO  Log - Clicking on My Account button
+2024-11-05 18:17:06 [main] INFO  Log - Clicking on My Orders button
+2024-11-05 18:17:35 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:17:35 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 18:17:38 [main] INFO  Log - Clicking on My Account button
+2024-11-05 18:17:39 [main] INFO  Log - Clicking on Manage Account button
+2024-11-05 18:18:03 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:18:03 [main] INFO  Log - Daraz My Profile Page initialized
+2024-11-05 18:18:06 [main] INFO  Log - Check if ManageMyAccount is Displayed
+2024-11-05 18:18:07 [main] INFO  Log - Click My Profile
+2024-11-05 18:18:32 [main] INFO  Log - Check if My Profile is Displayed
+2024-11-05 18:18:32 [main] INFO  Log - Click Edit Profile
+2024-11-05 18:18:35 [main] INFO  Log - Check if Edit Profile is Displayed
+2024-11-05 18:18:35 [main] INFO  Log - Click Month
+2024-11-05 18:25:24 [main] INFO  Log - Initializing browser: chrome
+2024-11-05 18:25:26 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:25:55 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 18:25:55 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:25:55 [main] INFO  Log - Clicking login button
+2024-11-05 18:25:55 [main] INFO  Log - navigating to login page
+2024-11-05 18:25:55 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:25:55 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 18:25:58 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 18:25:58 [main] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 18:25:58 [main] INFO  Log - enterPassword: 12345678m@
+2024-11-05 18:25:59 [main] INFO  Log - Clicking on Log In button
+2024-11-05 18:25:59 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:26:04 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 18:26:37 [main] INFO  Log - Clicking on My Account button
+2024-11-05 18:26:38 [main] INFO  Log - Clicking on My Orders button
+2024-11-05 18:27:08 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:27:08 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 18:27:11 [main] INFO  Log - Clicking on My Account button
+2024-11-05 18:27:12 [main] INFO  Log - Clicking on Manage Account button
+2024-11-05 18:27:37 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:27:37 [main] INFO  Log - Daraz My Profile Page initialized
+2024-11-05 18:27:40 [main] INFO  Log - Check if ManageMyAccount is Displayed
+2024-11-05 18:27:41 [main] INFO  Log - Click My Profile
+2024-11-05 18:28:06 [main] INFO  Log - Check if My Profile is Displayed
+2024-11-05 18:28:06 [main] INFO  Log - Click Edit Profile
+2024-11-05 18:28:09 [main] INFO  Log - Check if Edit Profile is Displayed
+2024-11-05 18:28:09 [main] INFO  Log - Click Month
+2024-11-05 18:28:10 [main] INFO  Log - Click Day
+2024-11-05 18:32:39 [main] INFO  Log - Initializing browser: chrome
+2024-11-05 18:32:41 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:33:11 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 18:33:11 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:33:11 [main] INFO  Log - Clicking login button
+2024-11-05 18:33:11 [main] INFO  Log - navigating to login page
+2024-11-05 18:33:11 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:33:11 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 18:33:14 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 18:33:14 [main] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 18:33:15 [main] INFO  Log - enterPassword: 12345678m@
+2024-11-05 18:33:15 [main] INFO  Log - Clicking on Log In button
+2024-11-05 18:33:15 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:33:20 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 18:33:37 [main] INFO  Log - Clicking on My Account button
+2024-11-05 18:33:38 [main] INFO  Log - Clicking on My Orders button
+2024-11-05 18:34:04 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:34:04 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 18:34:07 [main] INFO  Log - Clicking on My Account button
+2024-11-05 18:34:08 [main] INFO  Log - Clicking on Manage Account button
+2024-11-05 18:34:31 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:34:31 [main] INFO  Log - Daraz My Profile Page initialized
+2024-11-05 18:34:34 [main] INFO  Log - Check if ManageMyAccount is Displayed
+2024-11-05 18:34:34 [main] INFO  Log - Click My Profile
+2024-11-05 18:34:59 [main] INFO  Log - Check if My Profile is Displayed
+2024-11-05 18:35:00 [main] INFO  Log - Click Edit Profile
+2024-11-05 18:35:03 [main] INFO  Log - Check if Edit Profile is Displayed
+2024-11-05 18:35:03 [main] INFO  Log - Click Month
+2024-11-05 18:38:23 [main] INFO  Log - Initializing browser: chrome
+2024-11-05 18:38:24 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:39:03 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 18:39:03 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:39:03 [main] INFO  Log - Clicking login button
+2024-11-05 18:39:03 [main] INFO  Log - navigating to login page
+2024-11-05 18:39:03 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:39:03 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 18:39:06 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 18:39:06 [main] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 18:39:07 [main] INFO  Log - enterPassword: 12345678m@
+2024-11-05 18:39:07 [main] INFO  Log - Clicking on Log In button
+2024-11-05 18:39:07 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:39:12 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 18:39:46 [main] INFO  Log - Clicking on My Account button
+2024-11-05 18:39:46 [main] INFO  Log - Clicking on My Orders button
+2024-11-05 18:40:14 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:40:14 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 18:40:17 [main] INFO  Log - Clicking on My Account button
+2024-11-05 18:40:17 [main] INFO  Log - Clicking on Manage Account button
+2024-11-05 18:40:44 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:40:44 [main] INFO  Log - Daraz My Profile Page initialized
+2024-11-05 18:40:47 [main] INFO  Log - Check if ManageMyAccount is Displayed
+2024-11-05 18:40:48 [main] INFO  Log - Click My Profile
+2024-11-05 18:41:14 [main] INFO  Log - Check if My Profile is Displayed
+2024-11-05 18:41:14 [main] INFO  Log - Click Edit Profile
+2024-11-05 18:41:17 [main] INFO  Log - Check if Edit Profile is Displayed
+2024-11-05 18:41:17 [main] INFO  Log - Click Month
+2024-11-05 18:41:17 [main] INFO  Log - Click Day
+2024-11-05 18:54:48 [main] INFO  Log - Initializing browser: chrome
+2024-11-05 18:54:50 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:55:29 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 18:55:29 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:55:29 [main] INFO  Log - Clicking login button
+2024-11-05 18:55:29 [main] INFO  Log - navigating to login page
+2024-11-05 18:55:29 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:55:29 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 18:55:32 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 18:55:32 [main] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 18:55:32 [main] INFO  Log - enterPassword: 12345678m@
+2024-11-05 18:55:32 [main] INFO  Log - Clicking on Log In button
+2024-11-05 18:55:33 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:55:38 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 18:56:10 [main] INFO  Log - Clicking on My Account button
+2024-11-05 18:56:10 [main] INFO  Log - Clicking on My Orders button
+2024-11-05 18:56:49 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:56:49 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 18:56:52 [main] INFO  Log - Clicking on My Account button
+2024-11-05 18:56:53 [main] INFO  Log - Clicking on Manage Account button
+2024-11-05 18:57:21 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 18:57:21 [main] INFO  Log - Daraz My Profile Page initialized
+2024-11-05 18:57:24 [main] INFO  Log - Check if ManageMyAccount is Displayed
+2024-11-05 18:57:25 [main] INFO  Log - Click My Profile
+2024-11-05 18:57:50 [main] INFO  Log - Check if My Profile is Displayed
+2024-11-05 18:57:50 [main] INFO  Log - Click Edit Profile
+2024-11-05 18:57:53 [main] INFO  Log - Check if Edit Profile is Displayed
+2024-11-05 18:57:53 [main] INFO  Log - Click Month
+2024-11-05 18:57:55 [main] INFO  Log - Click Day
+2024-11-05 19:59:33 [main] INFO  Log - Initializing browser: chrome
+2024-11-05 19:59:54 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 20:00:28 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 20:00:28 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 20:00:28 [main] INFO  Log - Clicking login button
+2024-11-05 20:00:28 [main] INFO  Log - navigating to login page
+2024-11-05 20:00:28 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 20:00:28 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 20:00:31 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 20:00:32 [main] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 20:00:32 [main] INFO  Log - enterPassword: 12345678m@
+2024-11-05 20:00:32 [main] INFO  Log - Clicking on Log In button
+2024-11-05 20:00:32 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 20:00:37 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 20:01:08 [main] INFO  Log - Clicking on My Account button
+2024-11-05 20:01:08 [main] INFO  Log - Clicking on My Orders button
+2024-11-05 20:01:44 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 20:01:44 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 20:01:47 [main] INFO  Log - Clicking on My Account button
+2024-11-05 20:01:48 [main] INFO  Log - Clicking on Manage Account button
+2024-11-05 20:02:14 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 20:02:14 [main] INFO  Log - Daraz My Profile Page initialized
+2024-11-05 20:02:17 [main] INFO  Log - Check if ManageMyAccount is Displayed
+2024-11-05 20:02:17 [main] INFO  Log - Click My Profile
+2024-11-05 20:02:42 [main] INFO  Log - Check if My Profile is Displayed
+2024-11-05 20:02:42 [main] INFO  Log - Click Edit Profile
+2024-11-05 20:02:45 [main] INFO  Log - Check if Edit Profile is Displayed
+2024-11-05 20:02:46 [main] INFO  Log - Click Month
+2024-11-05 20:02:47 [main] INFO  Log - Click Day
+2024-11-05 20:02:48 [main] INFO  Log - Click Year
+2024-11-05 20:02:52 [main] INFO  Log - Save Changes
+2024-11-05 20:52:09 [main] INFO  Log - Initializing browser: chrome
+2024-11-05 20:52:11 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 20:52:34 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 20:52:34 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 20:52:34 [main] INFO  Log - Clicking login button
+2024-11-05 20:52:34 [main] INFO  Log - navigating to login page
+2024-11-05 20:52:34 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 20:52:34 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 20:52:37 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 20:52:37 [main] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 20:52:37 [main] INFO  Log - enterPassword: 12345678m@
+2024-11-05 20:52:37 [main] INFO  Log - Clicking on Log In button
+2024-11-05 20:52:38 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 20:52:43 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 20:53:00 [main] INFO  Log - Clicking on My Account button
+2024-11-05 20:53:00 [main] INFO  Log - Clicking on My Orders button
+2024-11-05 20:53:27 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 20:53:27 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 20:53:30 [main] INFO  Log - Clicking on My Account button
+2024-11-05 20:53:30 [main] INFO  Log - Clicking on Manage Account button
+2024-11-05 20:53:52 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 20:53:52 [main] INFO  Log - Daraz My Profile Page initialized
+2024-11-05 20:53:55 [main] INFO  Log - Check if ManageMyAccount is Displayed
+2024-11-05 20:53:55 [main] INFO  Log - Click My Profile
+2024-11-05 20:54:20 [main] INFO  Log - Check if My Profile is Displayed
+2024-11-05 20:54:20 [main] INFO  Log - Click Edit Profile
+2024-11-05 20:54:23 [main] INFO  Log - Check if Edit Profile is Displayed
+2024-11-05 20:54:23 [main] INFO  Log - Click Month
+2024-11-05 20:54:25 [main] INFO  Log - Click Day
+2024-11-05 20:54:26 [main] INFO  Log - Click Year
+2024-11-05 20:54:30 [main] INFO  Log - Save Changes
+2024-11-05 20:54:33 [main] INFO  Log - Retrieve saved date
+2024-11-05 20:57:52 [main] INFO  Log - Initializing browser: chrome
+2024-11-05 20:57:54 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 20:58:17 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 20:58:17 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 20:58:17 [main] INFO  Log - Clicking login button
+2024-11-05 20:58:17 [main] INFO  Log - navigating to login page
+2024-11-05 20:58:17 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 20:58:17 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 20:58:20 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 20:58:20 [main] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 20:58:21 [main] INFO  Log - enterPassword: 12345678m@
+2024-11-05 20:58:21 [main] INFO  Log - Clicking on Log In button
+2024-11-05 20:58:21 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 20:58:26 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 20:58:44 [main] INFO  Log - Clicking on My Account button
+2024-11-05 20:58:44 [main] INFO  Log - Clicking on My Orders button
+2024-11-05 20:59:10 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 20:59:10 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 20:59:13 [main] INFO  Log - Clicking on My Account button
+2024-11-05 20:59:14 [main] INFO  Log - Clicking on Manage Account button
+2024-11-05 20:59:36 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 20:59:36 [main] INFO  Log - Daraz My Profile Page initialized
+2024-11-05 20:59:39 [main] INFO  Log - Check if ManageMyAccount is Displayed
+2024-11-05 20:59:39 [main] INFO  Log - Click My Profile
+2024-11-05 21:00:04 [main] INFO  Log - Check if My Profile is Displayed
+2024-11-05 21:00:04 [main] INFO  Log - Click Edit Profile
+2024-11-05 21:00:07 [main] INFO  Log - Check if Edit Profile is Displayed
+2024-11-05 21:00:07 [main] INFO  Log - Click Month
+2024-11-05 21:00:08 [main] INFO  Log - Click Day
+2024-11-05 21:00:10 [main] INFO  Log - Click Year
+2024-11-05 21:00:14 [main] INFO  Log - Save Changes
+2024-11-05 21:00:17 [main] INFO  Log - Retrieve saved date
+2024-11-05 21:04:09 [main] INFO  Log - Initializing browser: chrome
+2024-11-05 21:04:14 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 21:04:26 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 21:04:26 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 21:04:26 [main] INFO  Log - Clicking login button
+2024-11-05 21:04:26 [main] INFO  Log - navigating to login page
+2024-11-05 21:04:26 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 21:04:26 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 21:04:29 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 21:04:29 [main] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 21:04:30 [main] INFO  Log - enterPassword: 12345678m@
+2024-11-05 21:04:30 [main] INFO  Log - Clicking on Log In button
+2024-11-05 21:04:30 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 21:04:35 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 21:04:53 [main] INFO  Log - Clicking on My Account button
+2024-11-05 21:04:53 [main] INFO  Log - Clicking on My Orders button
+2024-11-05 21:05:20 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 21:05:20 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 21:05:23 [main] INFO  Log - Clicking on My Account button
+2024-11-05 21:05:23 [main] INFO  Log - Clicking on Manage Account button
+2024-11-05 21:05:36 [main] INFO  Log - Initializing browser: chrome
+2024-11-05 21:05:38 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 21:06:01 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 21:06:01 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 21:06:01 [main] INFO  Log - Clicking login button
+2024-11-05 21:06:01 [main] INFO  Log - navigating to login page
+2024-11-05 21:06:01 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 21:06:01 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 21:06:04 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 21:06:04 [main] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 21:06:04 [main] INFO  Log - enterPassword: 12345678m@
+2024-11-05 21:06:05 [main] INFO  Log - Clicking on Log In button
+2024-11-05 21:06:05 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 21:06:10 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 21:06:27 [main] INFO  Log - Clicking on My Account button
+2024-11-05 21:06:27 [main] INFO  Log - Clicking on My Orders button
+2024-11-05 21:06:53 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 21:06:53 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 21:06:57 [main] INFO  Log - Clicking on My Account button
+2024-11-05 21:06:57 [main] INFO  Log - Clicking on Manage Account button
+2024-11-05 21:07:19 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 21:07:19 [main] INFO  Log - Daraz My Profile Page initialized
+2024-11-05 21:07:22 [main] INFO  Log - Check if ManageMyAccount is Displayed
+2024-11-05 21:07:22 [main] INFO  Log - Click My Profile
+2024-11-05 21:07:47 [main] INFO  Log - Check if My Profile is Displayed
+2024-11-05 21:07:47 [main] INFO  Log - Click Edit Profile
+2024-11-05 21:07:50 [main] INFO  Log - Check if Edit Profile is Displayed
+2024-11-05 21:07:50 [main] INFO  Log - Click Month
+2024-11-05 21:07:51 [main] INFO  Log - Click Day
+2024-11-05 21:07:53 [main] INFO  Log - Click Year
+2024-11-05 21:07:57 [main] INFO  Log - Save Changes
+2024-11-05 21:08:00 [main] INFO  Log - Retrieve saved date
+2024-11-05 21:13:06 [main] INFO  Log - Initializing browser: chrome
+2024-11-05 21:13:08 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 21:13:32 [main] INFO  Log - Loading URL: https://www.daraz.lk/
+2024-11-05 21:13:32 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 21:13:32 [main] INFO  Log - Clicking login button
+2024-11-05 21:13:32 [main] INFO  Log - navigating to login page
+2024-11-05 21:13:32 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 21:13:32 [main] INFO  Log - DarazLoginPage initialized
+2024-11-05 21:13:35 [main] INFO  Log - isLogInButtonDisplayed
+2024-11-05 21:13:35 [main] INFO  Log - enterUsername: michellenikeetha@gmail.com
+2024-11-05 21:13:35 [main] INFO  Log - enterPassword: 12345678m@
+2024-11-05 21:13:35 [main] INFO  Log - Clicking on Log In button
+2024-11-05 21:13:36 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 21:13:41 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 21:13:59 [main] INFO  Log - Clicking on My Account button
+2024-11-05 21:13:59 [main] INFO  Log - Clicking on My Orders button
+2024-11-05 21:14:26 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 21:14:26 [main] INFO  Log - isMyAccountButtonDisplayed
+2024-11-05 21:14:29 [main] INFO  Log - Clicking on My Account button
+2024-11-05 21:14:29 [main] INFO  Log - Clicking on Manage Account button
+2024-11-05 21:14:51 [main] INFO  Log - BasePage initialized with WebDriver
+2024-11-05 21:14:51 [main] INFO  Log - Daraz My Profile Page initialized
+2024-11-05 21:14:54 [main] INFO  Log - Check if ManageMyAccount is Displayed
+2024-11-05 21:14:54 [main] INFO  Log - Click My Profile
+2024-11-05 21:15:19 [main] INFO  Log - Check if My Profile is Displayed
+2024-11-05 21:15:19 [main] INFO  Log - Click Edit Profile
+2024-11-05 21:15:23 [main] INFO  Log - Check if Edit Profile is Displayed
+2024-11-05 21:15:23 [main] INFO  Log - Click Month
+2024-11-05 21:15:24 [main] INFO  Log - Click Day
+2024-11-05 21:15:25 [main] INFO  Log - Click Year
+2024-11-05 21:15:29 [main] INFO  Log - Save Changes
+2024-11-05 21:15:32 [main] INFO  Log - Retrieve saved date

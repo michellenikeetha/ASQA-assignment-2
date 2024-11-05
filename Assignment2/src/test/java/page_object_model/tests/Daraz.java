@@ -1,5 +1,6 @@
 package page_object_model.tests;
 
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -76,14 +77,52 @@ public class Daraz extends Utilities {
 
         loginPage.enterUsername("michellenikeetha@gmail.com");
         loginPage.enterPassword("12345678m@");
-        loginPage.clickLogInButton();
+        DarazNavigation navigation = loginPage.clickLogInButton();
+        Thread.sleep(5000);
+
+        Assert.assertTrue(navigation.isMyAccountButtonDisplayed(), "My account button is not displayed.");
+
+        navigation.clickMyAccountButton();
+        navigation.clickMyOrdersButton();
         Thread.sleep(3000);
 
-        Assert.assertTrue(loginPage.isMyAccountButtonDisplayed(), "My account button is not displayed.");
+    }
 
-        loginPage.clickMyAccountButton();
-        loginPage.clickMyOrdersButton();
+    @Test(dependsOnMethods = "login")
+    public void myProfile() throws InterruptedException {
+        DarazNavigation navigation = PageFactory.initElements(browserFactory.getDriver(), DarazNavigation.class);
+
+        Assert.assertTrue(navigation.isMyAccountButtonDisplayed(), "My account button is not displayed.");
+
         Thread.sleep(3000);
+        navigation.clickMyAccountButton();
+        DarazMyProfile myProfile = navigation.clickManageAccountButton();
+        Thread.sleep(3000);
+
+        Assert.assertTrue(myProfile.isManageMyAccountDisplayed(), "Manage My account title is not displayed.");
+
+        myProfile.clickMyProfile();
+        Thread.sleep(3000);
+
+        Assert.assertTrue(myProfile.isMyProfileDisplayed(), "My profile title is not displayed.");
+
+        myProfile.clickEditProfile();
+        Thread.sleep(3000);
+
+        Assert.assertTrue(myProfile.isEditProfileDisplayed(), "Edit profile title is not displayed.");
+
+        myProfile.clickMonth();
+        Thread.sleep(1000);
+        myProfile.clickDay();
+        myProfile.clickYear();
+        Thread.sleep(3000);
+
+        myProfile.saveChanges();
+        Thread.sleep(3000);
+
+        String expectedDate = "2001-03-17";
+        String actualDate = myProfile.getSavedDate();
+        Assert.assertEquals(actualDate, expectedDate, "The saved date is not as expected.");
 
     }
 
